@@ -1,0 +1,19 @@
+{
+  "name": "exchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "highcharts": "^8.2.2",
+    "lodash": "^4.17.21",
+    "qs": "^6.11.2",
+    "vue-i18n": "^8.28.2",
+    "vuex": "^3.6.2"
+  }
+}
